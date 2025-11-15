@@ -9,7 +9,7 @@
                 I'm currently learning IT at <a href="https://istts.ac.id/" target="_blank">iSTTS</a>.
             </p>
             <p>
-                Currently working on a small project in C++. You can see it in the pinned repositories.
+                Currently working on a small project in C++ (Cowboy C++). You can see it in the pinned repositories.
             </p>
             <h2>What I Use</h2>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
