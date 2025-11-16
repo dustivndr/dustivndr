@@ -18,19 +18,19 @@
 ## What I use
 
 Mostly I use:
-<list>
+<ul>
     <li>C++</li>
     <li>HTML & CSS</li>
-</list>
+</ul>
 
 But I also have experience with:
-<list>
+<ul>
     <li>Python</li>
     <li>JavaScript</li>
     <li>PHP</li>
     <li>SQL</li>
     <li>Batch Scripting</li>
-</list>
+</ul>
 
 Also, for OS, I mostly use Windows, but I also use Fedora Linux.
 Don't expect to much, I'm still learning.
