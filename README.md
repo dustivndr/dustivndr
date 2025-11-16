@@ -11,14 +11,26 @@
             <p>
                 Currently working on a small project in C++. You can see it in the pinned repositories.
             </p>
-            <h2>What I Use</h2>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="50"/>
-            <hr/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" width="50"/>
         </td>
     </tr>
 </table>
+
+## What I use
+
+Mostly I use:
+<list>
+    <li>C++</li>
+    <li>HTML & CSS</li>
+</list>
+
+But I also have experience with:
+<list>
+    <li>Python</li>
+    <li>JavaScript</li>
+    <li>PHP</li>
+    <li>SQL</li>
+    <li>Batch Scripting</li>
+</list>
+
+Also, for OS, I mostly use Windows, but I also use Fedora Linux.
+Don't expect to much, I'm still learning.
