@@ -9,7 +9,7 @@
                 I'm currently learning IT at <a href="https://istts.ac.id/" target="_blank">iSTTS</a>.
             </p>
             <p>
-                Currently working on a small project in C++. You can see it in the pinned repositories.
+                Currently working on a small C++ project. You can see it in the pinned repositories.
             </p>
         </td>
     </tr>
@@ -33,4 +33,4 @@ But I also have experience with:
 </ul>
 
 Also, for OS, I mostly use Windows, but I also use Fedora Linux.
-Don't expect to much, I'm still learning.
+Don't expect too much, I'm still learning.
