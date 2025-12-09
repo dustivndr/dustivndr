@@ -1,6 +1,6 @@
 ## Hey, I'm Dustin 👋
     
-I'm currently learning IT at <a href="https://istts.ac.id/" target="_blank">iSTTS</a>.
+I'm currently learning IT at [iSTTS](https://istts.ac.id/).
 
 Currently working on a small C++ project. You can see it in the pinned repositories.
 
