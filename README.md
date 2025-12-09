@@ -1,19 +1,8 @@
-<table>
-    <tr>
-        <td>
-            <img src="./img/medieval-scribe.jpg" width="100">
-        </td>
-        <td>
-            <h2>Hey, I'm Dustin 👋</h2>
-            <p>
-                I'm currently learning IT at <a href="https://istts.ac.id/" target="_blank">iSTTS</a>.
-            </p>
-            <p>
-                Currently working on a small C++ project. You can see it in the pinned repositories.
-            </p>
-        </td>
-    </tr>
-</table>
+## Hey, I'm Dustin 👋
+    
+I'm currently learning IT at <a href="https://istts.ac.id/" target="_blank">iSTTS</a>.
+
+Currently working on a small C++ project. You can see it in the pinned repositories.
 
 ## What I use
 
