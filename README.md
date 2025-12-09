@@ -1,7 +1,7 @@
 <table>
     <tr>
         <td>
-            <img src="./img/medieval-scribe.jpg" width="300">
+            <img src="./img/medieval-scribe.jpg" width="100">
         </td>
         <td>
             <h2>Hey, I'm Dustin 👋</h2>
