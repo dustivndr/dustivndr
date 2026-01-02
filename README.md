@@ -19,6 +19,7 @@ But I also have experience with:
     <li>PHP</li>
     <li>SQL</li>
     <li>Batch Scripting</li>
+    <li>Fortran</li>
 </ul>
 
 Also, for OS, I mostly use Windows, but I also use Fedora Linux.
