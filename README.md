@@ -28,5 +28,5 @@ Learning:
     <li>Assembly</li>
 </ul>
 
-Also, for OS, I mostly use Windows, but I also use Fedora Linux.
+Also, for OS, I use Windows and Fedora Linux.
 Don't expect too much, I'm still learning.
