@@ -18,7 +18,6 @@ But I also have experience with:
     <li>JavaScript</li>
     <li>PHP</li>
     <li>SQL</li>
-    <li>Batch Scripting</li>
 </ul>
 
 Learning:
