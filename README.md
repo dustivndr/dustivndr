@@ -14,7 +14,7 @@ Mostly I use:
 
 But I also have experience with:
 <ul>
-    <li>Python</li>
+    <li>Java</li>
     <li>JavaScript</li>
     <li>PHP</li>
     <li>SQL</li>
@@ -22,7 +22,7 @@ But I also have experience with:
 
 Learning:
 <ul>
-    <li>Java</li>
+    <li>Python</li>
     <li>Fortran</li>
     <li>Assembly</li>
 </ul>
